@@ -33,4 +33,5 @@ Since this is a client-side application, you only need a modern web browser to r
 
 1.  Clone or download the project files.
 2.  Open the `index.html` file in your preferred web browser.
-3. This application live at: 
+3. This application live at: https://mantandela.github.io/task_board/
+
